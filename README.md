@@ -1,6 +1,6 @@
 ## 👨🏻‍💻Lucas Silva
 
-**`Desenvolvedor Full Stack`
+**`Desenvolvedor Full Stack`**
 
 Me chamo Caio Lucas de Almeida e Silva, tenho 18 anos e sou natural do Pará. Atualmente curso Análise e Desenvolvimento de Sistemas, área pela qual sou apaixonado. Estou sempre em busca de novos aprendizados, com o objetivo de dominar diferentes ferramentas e linguagens de programação para me tornar um desenvolvedor completo e preparado para os desafios do mercado.
 
